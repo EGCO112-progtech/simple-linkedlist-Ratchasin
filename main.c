@@ -29,10 +29,10 @@ int main(int argc, const char *argv[])
     */
     d.next = NULL;
 
-    /*printf("%d\n", head ->value ); //what value for 5
+    printf("%d\n", head ->value ); //what value for 5
     printf("%d\n", head ->next->value ); //what value for 8
     printf("%d\n", head ->next->next->value );//11
-    printf("\n\n");*/
+    printf("\n\n");
     /*  Exercise I
         1. Add 1 more than at the end
         2. Add value(11)
